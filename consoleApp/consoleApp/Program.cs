@@ -1307,4 +1307,161 @@ Console.WriteLine($"{sayac - 1} adet sayının toplamı =  {toplam}");
 
 
 /*Break & contiune*/
+//contiune --> ilgili yeri alır e döngüye devam eder 
+//break --> döngüyü direk bitirir
+
+/*
+string isim = "Enes Bacaksız";
+
+for (var i = 0; i < isim.Length; i++)
+{
+    if (isim[i] == 'e')
+        break;
+    
+    Console.WriteLine(isim[i]);
+}
+
+Console.WriteLine("döngü bitti");
+*/
+
+/*
+int x =0;
+
+while (x < 5)
+{
+    x++;
+    if (x == 3)
+    {
+        continue;
+    }
+    Console.WriteLine(x);
+}
+
+Console.WriteLine("döngü bitti");
+*/
+
+
+/*Uygulama while döngüsü*/
+
+//sayı tahmin
+// 1-100 arasında rastgele tutulan bir sayıyı buldurmaya çalışın
+// tanımlanan hak bittiğinde uygulama bitmeli
+
+
+/*
+var rnd = new Random();
+
+int tutulansayi = rnd.Next(1, 100);
+int hak = 3;
+
+while (hak > 0)
+{
+    Console.WriteLine(tutulansayi);
+    Console.Write("Sayı: ");
+    int sayi = Convert.ToInt32(Console.ReadLine());
+
+    hak--;
+
+    if (sayi == tutulansayi)
+    {
+        Console.WriteLine("TEBRİKLER BİLDİNİZ");
+        break;
+    }
+    else
+    {
+        if (hak == 0)
+        {
+            Console.WriteLine("oyun bitti");
+            break;
+        }
+        if (tutulansayi > sayi)
+        {
+            Console.WriteLine("yukarı");
+        }
+        else
+        {
+            Console.WriteLine("aşağı");
+        }
+    }
+}
+*/
+
+
+
+/*DO WHİLE*/
+//herhangi bir koşul olmadan kodlar en az 1 kere çalışır sonraki turların çalışması için while ın true dönmesi gereklidir
+
+//int i = 1;
+
+//do
+//{
+//    //kodlar
+//    Console.WriteLine(i);
+//    i++;
+//} while (i<10);
+
+/*
+Console.Write("adet: ");
+int adet = Convert.ToInt32(Console.ReadLine());
+
+string[] urunler = new string[adet];
+
+int i = 0;
+do
+{
+    Console.Write("Ürün adı ");
+    urunler[i] = Console.ReadLine() ?? "ürün adı tanımlanmadı ";
+
+    i++;
+} while (adet != i);
+
+Console.WriteLine(" ");
+Console.WriteLine("ürünler listeleniyor ...");
+Console.WriteLine(" ");
+
+
+for (int j = 0; j < urunler.Length; j++)
+{
+    Console.WriteLine(urunler[j]);
+}
+*/
+
+/*forEach döngüsü*/
+
+string ad = "Ahmet";
+//for (var i = 0; i < ad.Length; i++)
+//{
+//    Console.WriteLine(ad[i]);
+//}
+
+/*
+foreach (var harf in ad)
+{
+    Console.WriteLine(harf);
+}
+*/
+
+/*
+int[] sayilar = { 10, 20, 40, 45 };
+
+foreach (var sayi in sayilar)
+{
+    if (sayi == 20)
+    {
+        continue;
+    }
+    Console.WriteLine(sayi);
+}
+*/
+
+
+
+
+/*DOSYA YÖNETİMİ*/
+/*
+Stream
+File
+Directory
+Path
+ */
 

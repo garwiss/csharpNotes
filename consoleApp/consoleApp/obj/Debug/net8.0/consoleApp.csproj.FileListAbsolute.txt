@@ -12,3 +12,4 @@ C:\Users\enesb\Desktop\BTK\Sadık Turan C#\consoleApp\consoleApp\obj\Debug\net8.
 C:\Users\enesb\Desktop\BTK\Sadık Turan C#\consoleApp\consoleApp\obj\Debug\net8.0\consoleApp.pdb
 C:\Users\enesb\Desktop\BTK\Sadık Turan C#\consoleApp\consoleApp\obj\Debug\net8.0\consoleApp.genruntimeconfig.cache
 C:\Users\enesb\Desktop\BTK\Sadık Turan C#\consoleApp\consoleApp\obj\Debug\net8.0\ref\consoleApp.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\consoleApp\consoleApp\obj\Debug\net8.0\consoleApp.sourcelink.json
