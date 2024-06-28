@@ -195,6 +195,8 @@ veri tipi dönüşümü
 
 
 
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
 
 
 /*STRİNG VE DATE*/
@@ -307,6 +309,7 @@ Console.WriteLine(dt2);
 */
 
 
+/*----------------------------------------------------Diziler---------------------------------------------------------------------------*/
 
 
 
@@ -565,6 +568,7 @@ Console.WriteLine($"{ogrenciler[2]} isimli öğrencinin not ortalaması: {ortala
 //Console.WriteLine(x[0]);  //20
 //Console.WriteLine(y[0]);  //20
 
+/*------------------------------------------------OPERATÖRLER---------------------------------------------------------------------------*/
 
 
 /*OPERATORLER*/
@@ -889,6 +893,7 @@ Console.WriteLine(sayi);
 Console.WriteLine(takimlar[sayi]);
 */
 
+/*--------------------------------------------KOŞULLU BLOKLAR---------------------------------------------------------------------------*/
 
 
 /*KOŞULLU BLOKLAR*/
@@ -1179,6 +1184,8 @@ Console.WriteLine(sonuc);
 */
 
 
+/*--------------------------------------------------DÖNGÜLER----------------------------------------------------------------------------*/
+
 
 
 /*DÖNGÜLER*/
@@ -1455,6 +1462,7 @@ foreach (var sayi in sayilar)
 */
 
 
+/*---------------------------------------------DOSYA YÖNETİMİ---------------------------------------------------------------------------*/
 
 
 /*DOSYA YÖNETİMİ*/
@@ -1464,4 +1472,154 @@ File
 Directory
 Path
  */
- 
+
+/*Dosya Okuma*/
+
+//StreamReader sr = File.OpenText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt");
+
+//var s = "";
+
+//while((s = sr.ReadLine()) != null)
+//{
+//Console.WriteLine(s);
+//}
+
+//string sonuc = File.ReadAllText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt");
+//string[] sonuc = File.ReadAllLines("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt");
+
+//Console.WriteLine(sonuc[0]);
+//Console.WriteLine(sonuc[1]);
+
+
+/*Dosyaya yazma ve ekleme*/
+
+//önemli not ---> using kapsamında oluşturulan nesne işi bittiği zaman kapatılır
+//eski içerikleri siler ve yenileri eklenir --> CreateText
+
+/*
+using (StreamWriter sw = File.CreateText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt")){
+sw.WriteLine("merhaba ");
+sw.WriteLine("btk");
+sw.WriteLine("akademi ");
+sw.WriteLine("using kapsamında oluşturulan nesne işi bittiği zaman kapatılır ");
+}
+*/
+
+//eski içerikleri silmez ve yenileri üstüne eklenşr eklenir --> AppendText
+
+/*
+using (StreamWriter sw = File.AppendText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt"))
+{
+    sw.WriteLine("selam ");
+    sw.WriteLine("btk");
+    sw.WriteLine("akademi ");
+    sw.WriteLine("using kapsamında oluşturulan nesne işi bittiği zaman kapatılır ");
+}
+*/
+
+// WriteAllText --> içindeki veriler silinir ve yolu belirlendikten sonra yanına eklenecek kelime eklenir 
+/*
+File.WriteAllText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt","merhaba");
+File.AppendAllText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt", "enes");
+
+
+
+using (StreamReader sr =
+       File.OpenText("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\deneme.txt"))
+{
+
+    var s = "";
+
+    while ((s = sr.ReadLine()) != null)
+    {
+        Console.WriteLine(s);
+    }
+}
+*/
+
+/*Klasörlerle çalışma*/
+
+//   Directory.CreateDirectory() sınıfıyla bir klasör oluşturulabiliyor
+//herhangi bir konum vermeden direkt klasör adını girip oluşturduğumuz takdirde direkt olarak proje içinde oluşturur
+/*
+Directory.CreateDirectory("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\temp");
+Directory.CreateDirectory("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\temp\\deneme");
+*/
+
+// Directory.Delete("konumu") --> klasörü siler
+/*
+if (Directory.Exists("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\temp\\deneme"))
+{
+Directory.Delete("C:\\Users\\enesb\\Desktop\\BTK\\Sadık Turan C#\\consoleApp\\consoleApp\\temp\\deneme");
+
+}
+else
+{
+    Console.WriteLine("İlgili klasör yok");
+}
+
+// Directory.Move("")  bir klasörü alıp başka bir yere gönderme
+*/
+//Directory.GetCurrentDirectory() ilgili klasöre nasıl ulaşılır 
+
+//masasüstünde klasör oluşturduk
+
+//string path = @"C:\Users\enesb\Desktop/temp/deneme";
+
+//string path = Directory.GetCurrentDirectory() + "/temp2";
+
+//Directory.CreateDirectory(path);
+
+
+
+
+/*Dosya ve Klasörlerle çalışma*/
+
+//belli bir yerdeki dosyaya nasıl erişebiliriz
+
+//string rootPath = Directory.GetCurrentDirectory();
+
+//string[] dirs = Directory.GetDirectories(rootPath, "*",searchOption:SearchOption.AllDirectories);
+
+//foreach (var dir in dirs)
+//{
+//    Console.WriteLine(dir);
+//}
+
+/*
+string[] files = Directory.GetFiles(rootPath, "*.txt", SearchOption.AllDirectories);
+
+foreach (var file in files)
+{
+    Console.WriteLine(file);
+    Console.WriteLine(Path.GetExtension(file));
+    Console.WriteLine(Path.GetFileNameWithoutExtension(file));
+    Console.WriteLine(Path.GetFileName(file));
+
+    var info = new FileInfo(file);
+
+    Console.WriteLine($"{Path.GetFileName(file)}:{info.Length}");
+
+
+}
+
+*/
+
+
+
+
+
+/* ------------------------------ DOSYA YÖNETİMİ 9.5 TEKRAR İZLE DOSYA YÖNETİMİ İYİCE ÇALIŞ ANLAMADIN ÇOK BTK AKADEMŞ ------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------------------------------------OOP-------------------------------------------------------------------------------*/
