@@ -1,0 +1,5 @@
+# visual studio ve build dosyaları
+.vs/
+obj/
+bin/
+

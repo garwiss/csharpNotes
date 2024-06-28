@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +30,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "consoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\enesb\\Desktop\\BTK\\Sad\u0131k Turan C#\\consoleApp\\consoleApp\\Program.cs",
               "RelativeToolTip": "consoleApp\\Program.cs",
-              "ViewState": "AQIAAKQFAAAAAAAAAAAAALsFAAAAAAAA",
+              "ViewState": "AQIAAKQFAAAAAAAAAAAAALIFAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T00:14:18.434Z",
               "EditorCaption": ""
