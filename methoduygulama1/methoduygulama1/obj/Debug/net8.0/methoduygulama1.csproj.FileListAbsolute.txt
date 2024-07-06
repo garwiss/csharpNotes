@@ -1,0 +1,15 @@
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\bin\Debug\net8.0\methoduygulama1.exe
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\bin\Debug\net8.0\methoduygulama1.deps.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\bin\Debug\net8.0\methoduygulama1.runtimeconfig.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\bin\Debug\net8.0\methoduygulama1.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\bin\Debug\net8.0\methoduygulama1.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.AssemblyInfoInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.AssemblyInfo.cs
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.csproj.CoreCompileInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.sourcelink.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\refint\methoduygulama1.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\methoduygulama1.genruntimeconfig.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\methoduygulama1\methoduygulama1\obj\Debug\net8.0\ref\methoduygulama1.dll

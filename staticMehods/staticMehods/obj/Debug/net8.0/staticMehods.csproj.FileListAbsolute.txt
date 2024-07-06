@@ -1,0 +1,15 @@
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\bin\Debug\net8.0\staticMehods.exe
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\bin\Debug\net8.0\staticMehods.deps.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\bin\Debug\net8.0\staticMehods.runtimeconfig.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\bin\Debug\net8.0\staticMehods.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\bin\Debug\net8.0\staticMehods.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.AssemblyInfoInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.AssemblyInfo.cs
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.csproj.CoreCompileInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.sourcelink.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\refint\staticMehods.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\staticMehods.genruntimeconfig.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\staticMehods\staticMehods\obj\Debug\net8.0\ref\staticMehods.dll

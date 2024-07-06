@@ -1,0 +1,15 @@
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\bin\Debug\net8.0\csharooop.exe
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\bin\Debug\net8.0\csharooop.deps.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\bin\Debug\net8.0\csharooop.runtimeconfig.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\bin\Debug\net8.0\csharooop.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\bin\Debug\net8.0\csharooop.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.AssemblyInfoInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.AssemblyInfo.cs
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.csproj.CoreCompileInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.sourcelink.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\refint\csharooop.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\csharooop.genruntimeconfig.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\csharooop\csharooop\obj\Debug\net8.0\ref\csharooop.dll

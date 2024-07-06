@@ -1,0 +1,15 @@
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\bin\Debug\net8.0\hatayonetimi.exe
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\bin\Debug\net8.0\hatayonetimi.deps.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\bin\Debug\net8.0\hatayonetimi.runtimeconfig.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\bin\Debug\net8.0\hatayonetimi.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\bin\Debug\net8.0\hatayonetimi.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.AssemblyInfoInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.AssemblyInfo.cs
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.csproj.CoreCompileInputs.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.sourcelink.json
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\refint\hatayonetimi.dll
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.pdb
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\hatayonetimi.genruntimeconfig.cache
+C:\Users\enesb\Desktop\BTK\Sadık Turan C#\hatayonetimi\hatayonetimi\obj\Debug\net8.0\ref\hatayonetimi.dll
